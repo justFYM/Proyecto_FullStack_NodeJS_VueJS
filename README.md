@@ -1,13 +1,10 @@
 # Proyecto: ```Plataforma web de visualización de notas```
 
-Este proyecto fue desarrollado como un requisito para la asignatura ```Desarrollo de aplicaciones para internet```, con el objetivo de aplicar los conocimientos adquiridos durante las 
-clases. El proyecto consistió en ayudar a un grupo de usuarios registrados en otro sistema a visualizar sus calificaciones. Además, se agregó la funcionalidad de generar, editar y borrar 
-notas para cada usuario que se registre en la aplicación.  
-El proyecto incluye importantes medidas de seguridad, por ejemplo, al registrar una cuenta, la contraseña se encripta en la base de datos MongoDB. Cada vez que un usuario intenta ingresar 
-a su cuenta, se genera un token que le permite navegar por el contenido protegido de la plataforma web. Además, para permitir la creación, edición y eliminación de notas para cada usuario, 
-se estableció una relación entre los modelos ```nota``` y ```user```.
+Este proyecto fue desarrollado como requisito para la asignatura de Desarrollo de Aplicaciones para Internet, con el fin de aplicar los conocimientos adquiridos durante las clases. El proyecto consistió en crear una plataforma que actuara como intermediario entre un sistema externo y los usuarios registrados en ese sistema, permitiéndoles visualizar sus calificaciones de una manera más sencilla y accesible. Además, para agregar más funcionalidad a la plataforma, se agregaron casos de uso que permiten a los usuarios generar, editar y borrar notas en su perfil personal de la aplicación.  
 
-Cuando el usuario inicia sesión y accede a la sección para visualizar los datos del otro sistema, el backend realiza una petición a una API externa utilizando Fetch API, lo que permite mostrar los datos de cada usuario registrado en la base de datos en el frontend.
+El proyecto incluye importantes medidas de seguridad, por ejemplo, al registrar una cuenta, la contraseña se encripta en la base de datos MongoDB. Cada vez que un usuario intenta ingresar a su cuenta, se genera un token que le permite navegar por el contenido protegido de la plataforma web. Además, para permitir la creación, edición y eliminación de notas para cada usuario, se estableció una relación entre los modelos ```nota``` y ```user```.
+
+Por otro lado, cuando el usuario inicia sesión y accede a la sección para visualizar los datos del otro sistema, el backend realiza una petición a una API externa utilizando Fetch API, lo que permite mostrar los datos de cada usuario registrado en la base de datos en el frontend.
 
 ### Stack de tecnologías.
 <p align="center">
