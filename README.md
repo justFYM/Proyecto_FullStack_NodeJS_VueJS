@@ -28,14 +28,14 @@ Cuando el usuario inicia sesión y accede a la sección para visualizar los dato
   <img src="./IMG/Login.PNG" alt="Descripción de la imagen">
 </p>
 
-#### Es importante resaltar que el ```token``` almacenado en el LocalStorage que aparece en la imagen de la derecha se genera automáticamente cuando el back-end valida los resultados enviados por el usuario en el front-end. Este proceso garantiza la seguridad de la información transmitida y evita posibles ataques en el sistema de terceros. El ```token``` es una medida de autenticación esencial para acceder a funciones o datos restringidos en el sistema.
+#### Es importante resaltar que el ```token``` almacenado en el LocalStorage que aparece en la imagen anterior se genera automáticamente cuando el back-end valida los resultados enviados por el usuario en el front-end. Este proceso garantiza la seguridad de la información transmitida y evita posibles ataques en el sistema de terceros. El ```token``` es una medida de autenticación esencial para acceder a funciones o datos restringidos en el sistema.
 
 ## Caso de uso: ```Ver datos```
 <p align="center">
   <img src="./IMG/VistaProtegida.PNG" alt="Descripción de la imagen">
 </p>
 
-#### El objetivo de este caso de uso es establecer una comunicación con una API externa. Por lo tanto, es importante tener en cuenta que la información presentada en la siguiente imagen es el resultado de una comunicación entre el back-end y la API externa, así como entre el back-end y el front-end para transmitir los datos obtenidos de la API
+#### El objetivo de este caso de uso es establecer una comunicación con una API externa. Por lo tanto, es importante tener en cuenta que la información presentada en la imagen anterior es el resultado de una comunicación entre el back-end y la API externa, así como entre el back-end y el front-end para transmitir los datos obtenidos de la API
 
 ## Caso de uso: ```Agregar nota```
 <p align="center">
