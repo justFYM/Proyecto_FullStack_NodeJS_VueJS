@@ -22,7 +22,7 @@ mostrar los datos de cada usuario registrado en la base de datos en el frontend.
   <img src="./IMG/Registro.PNG" alt="Descripción de la imagen">
 </p>
 
-#### Como se puedo apreciar en la imagen debajo del formulario de registro de cuenta, el sistema encripta la clave proporcionada por el ```Usuario``` y luego la almacena en la base de 
+#### Como se puedo apreciar en la imagen debajo del formulario de registro de cuenta, el sistema encripta la clave proporcionada por el ```Usuario``` y luego la almacena en la base de
 datos ```MongoDB```.
 
 ## Caso de uso: ```Iniciar sesión```
@@ -39,5 +39,5 @@ de autenticación esencial para acceder a funciones o datos restringidos en el s
   <img src="./IMG/VistaProtegida.PNG" alt="Descripción de la imagen">
 </p>
 
-#### El objetivo de este caso de uso es establecer una comunicación con una API externa. Por lo tanto, es importante tener en cuenta que la información presentada en la siguiente imagen 
+#### El objetivo de este caso de uso es establecer una comunicación con una API externa. Por lo tanto, es importante tener en cuenta que la información presentada en la siguiente imagen
 es el resultado de una comunicación entre el back-end y la API externa, así como entre el back-end y el front-end para transmitir los datos obtenidos de la API
