@@ -35,7 +35,7 @@ Cuando el usuario inicia sesión y accede a la sección para visualizar los dato
   <img src="./IMG/VistaProtegida.PNG" alt="Descripción de la imagen">
 </p>
 
-#### El objetivo de este caso de uso es establecer una comunicación con una API externa. Por lo tanto, es importante tener en cuenta que la información presentada en la imagen anterior es el resultado de una comunicación entre el back-end y la API externa, así como entre el back-end y el front-end para transmitir los datos obtenidos de la API
+#### El objetivo de este caso de uso es establecer una comunicación con una API externa. Por lo tanto, es importante tener en cuenta que la información presentada en la imagen anterior es el resultado de una comunicación entre el back-end y la API externa, así como entre el back-end y el front-end para transmitir los datos obtenidos de la API.
 
 ## Caso de uso: ```Agregar nota```
 <p align="center">
