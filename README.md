@@ -28,7 +28,7 @@ Cuando el usuario inicia sesión y accede a la sección para visualizar los dato
   <img src="./IMG/Login.PNG" alt="Descripción de la imagen">
 </p>
 
-#### Es importante resaltar que el ```token``` almacenado en el LocalStorage que aparece en la imagen anterior se genera automáticamente cuando el back-end valida los resultados enviados por el usuario en el front-end. Este proceso garantiza la seguridad de la información transmitida y evita posibles ataques en el sistema de terceros. El ```token``` es una medida de autenticación esencial para acceder a funciones o datos restringidos en el sistema.
+#### Es importante resaltar que el ```token``` almacenado en el LocalStorage que aparece en la imagen anterior se genera automáticamente cuando el back-end valida los resultados enviados por el usuario en el front-end. Este proceso garantiza la seguridad de la información transmitida y evita posibles vulnerabilidades en el sistema. El ```token``` es una medida de autenticación esencial para acceder a funciones o datos restringidos en el sistema.
 
 ## Caso de uso: ```Ver datos```
 <p align="center">
