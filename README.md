@@ -16,7 +16,7 @@ Por otro lado, cuando el usuario inicia sesión y accede a la sección para visu
   <img src="./IMG/Registro.PNG" alt="Descripción de la imagen">
 </p>
 
-Como se puede observar en la imagen que se encuentra debajo del formulario de registro de cuenta, el sistema ocupa un proceso de encriptación para la clave proporcionada por el usuario antes de almacenarla en la base de datos MongoDB.
+Como se puede apreciar en la imagen debajo del formulario de registro de cuenta, el sistema cifró la clave proporcionada por el usuario y luego la almacenó en la base de datos MongoDB.
 
 ## Caso de uso: ```Iniciar sesión```
 <p align="center">
