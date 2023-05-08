@@ -47,7 +47,7 @@ El objetivo de este caso de uso es establecer una comunicación con una API exte
   <img src="./IMG/BorrarNota.PNG" alt="Descripción de la imagen">
 </p>
 
-Por último, es importante mencionar que antes de ingresar una nota, se lleva a cabo una validación de campos. En particular, es obligatorio colocar un nombre a la nota para que pueda ser registrada correctamente en el sistema.
+Por último, es importante mencionar que antes de ingresar una nota, se lleva a cabo una validación de campos. En particular, es obligatorio colocar un nombre a la nota para que pueda ser registrada en el sistema.
 
 <p align="center">
   <img src="./IMG/Validation.PNG" alt="Descripción de la imagen">
