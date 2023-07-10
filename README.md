@@ -1,6 +1,6 @@
 # Proyecto: ```Plataforma web de visualización de notas```
 
-El siguiente proyecto fue diseñado y creado durante la cursada de la asignatura "Desarrollo de aplicaciones para internet" en la Universidad de La Frontera. La intención del proyecto es proporcionar una interfaz gráfica sencilla y accesible para visualizar calificaciones de un sistema externo y permitir a los usuarios generar, editar y borrar notas en su perfil personal dentro de la aplicación.
+El siguiente proyecto fue diseñado y creado durante la cursada de la asignatura ```Desarrollo de aplicaciones para internet``` en la Universidad de La Frontera. La intención del proyecto es proporcionar una interfaz gráfica sencilla y accesible para visualizar calificaciones de un sistema externo y permitir a los usuarios generar, editar y borrar notas en su perfil personal dentro de la aplicación.
 
 ### Stack de tecnologías.
 <p align="center">
